@@ -1,0 +1,17 @@
+html{
+    scroll-behavior: smooth;
+    background-color: aqua;
+}
+
+.top{
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 725;
+    border-color: black;
+    
+}
+
